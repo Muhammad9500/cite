@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background: url("https://oboi.ws/download-17-10006/file/");
+    margin: 0;
+
+}
+.link-header{
+    text-decoration: none;
+    color:rgb(247, 245, 245);
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 7px;
+    font-family: 'Sigmar One', sans-serif;
+
+
+}
+a{
+    text-decoration: none ;
+}
+.text-big b {
+    color: white;
+}
+b{
+    color: white;
+}
+h1{
+    color: white;
+}
+button{
+    background: black;
+    color: white;
+    
+}
+.block{
+    background-color: black;
+    width: 430px;
+    border-radius: 20px;
+}
+

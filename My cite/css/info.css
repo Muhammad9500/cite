@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background: url("https://oboi.ws/download-17-10006/file/");
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h1,
+h2{
+    color: white;
+}
+ol{
+    color: white;
+}
+p{
+    color: white;
+}
+.link-header{
+    font-family: 'Sigmar One', cursive;
+    
+}
+
+

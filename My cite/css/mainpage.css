@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+    margin:0;
+    background: url("https://oboi.ws/download-17-10006/file/");
+    
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+nav{
+    position: relative;
+    left: 350px;
+    bottom: 17px;
+}
+header{
+    padding-top: 20px;
+    background-image: linear-gradient(to right, rgb(64, 95, 196), rgb(45, 50, 179), rgb(58, 28, 193), rgb(12, 9, 204), rgb(45, 1, 204), rgb(132, 53, 152));
+}
+.link-header{
+    font-family: 'Sigmar One', sans-serif;
+}
+.txt1{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 150px;
+    height: 40px;
+}
+.txt2{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 80px;
+}
+.txt3{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 220px;
+}
+.txt4{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 110px;
+}
+.txt5{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 490px;
+}
+footer{
+    position: fixed;
+    top: 900px;
+}
+.link-nav{
+    position: relative;
+    bottom: 4px;
+}
+
+
